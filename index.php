@@ -2,6 +2,6 @@
 
 
 echo '<H1>Dit is de eerste tekst voor github.</H1>';
-echo 'Groeten van Henry Robben';
+echo '<p>Groeten van Henry Robben</p><br>';
 
-phpinfo();
+echo '<p><b><i>phpinfo()</i> is verwijderd en vervangen door deze tekst</b></p>';
